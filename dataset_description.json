@@ -15,7 +15,7 @@
     "ReferencesAndLinks": [
         "https://example.com/publication"
     ],
-    "License": "CC-BY-4.0",
+    "License": "CC0",
     "GeneratedBy": [
         {
             "Name": "mne-bids",
@@ -30,5 +30,6 @@
         {
             "Gimme": "https://example.com/source_dataset"
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006126.v1.0.0"
 }
