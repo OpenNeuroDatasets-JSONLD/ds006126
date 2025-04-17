@@ -1,4 +1,0 @@
-﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
-FDI_R	EEG	µV	0.015915494309189534	1000.0	ElectroEncephaloGram	5000.0	good	n/a
-ADM_R	EEG	µV	0.015915494309189534	1000.0	ElectroEncephaloGram	5000.0	good	n/a
-APB_R	EEG	µV	0.015915494309189534	1000.0	ElectroEncephaloGram	5000.0	good	n/a
